@@ -1,0 +1,4 @@
+re
+os
+psutil
+prettytable
